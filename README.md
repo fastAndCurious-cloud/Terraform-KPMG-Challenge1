@@ -16,7 +16,7 @@ Terraform | v0.12 or above
 AWS Provider	| v2.42 or above
 
 ## Design requirements considered
-As there was no specific
+
 Using Terraform V12, build a aws MVC  module meant to deploy a web application that supports the following design:
 
 - It must include a VPC which enables future growth / scale
