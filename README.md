@@ -1,6 +1,6 @@
 ![enter image description here](https://www.datocms-assets.com/2885/1506457071-blog-terraform-list.svg)
 
-# **KPMG - Assignment**
+# **Assignment**
 
 This repository holds the code for the 'KPMG assignment' project,
 The terraform project deploys a web application and creates following resources -
