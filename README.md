@@ -49,7 +49,6 @@ Using Terraform V12, build a aws MVC  module meant to deploy a web application t
 Follow the below instructiosn to deploy infrastructure using this code:
 
 - Clone the code using following:
- `git clone https://github.com/fastAndCurious-cloud/Terraform-KPMG-Challenge1.git`
 - Make sure you have installed AWS CLI on your PC. If not, download from the following link:
     https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
 - Configure AWS credentials by opening cmd and running following command:
