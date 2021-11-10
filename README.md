@@ -2,7 +2,7 @@
 
 # **Assignment**
 
-This repository holds the code for the 'KPMG assignment' project,
+This repository holds the code for the 'terraform assignment' project,
 The terraform project deploys a web application and creates following resources -
 - Load balancer with an autoscaling group
 - Elasctic file system
